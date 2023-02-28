@@ -1,0 +1,6 @@
+.env
+data/Bitcoin_tweets.csv
+data/btc.csv
+data/df_btc_hist.csv
+data/queries/date_vs_sentiment.csv
+data/queries/influencers2.csv

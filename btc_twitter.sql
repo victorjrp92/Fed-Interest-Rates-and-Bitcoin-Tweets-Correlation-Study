@@ -1,0 +1,1 @@
+SELECT * FROM project4.btc_twitter;
